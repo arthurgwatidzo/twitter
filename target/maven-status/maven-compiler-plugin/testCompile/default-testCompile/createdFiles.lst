@@ -1,0 +1,6 @@
+za\co\mini\twitter\TwitterMainAppControllerTest.class
+za\co\twitter\entity\UserTest.class
+za\co\twitter\repository\TweetRepositoryTest.class
+za\co\mini\twitter\CounterfeitTweetsControllerTest.class
+za\co\twitter\entity\TweetTest.class
+za\co\twitter\repository\UserRepositoryTest.class

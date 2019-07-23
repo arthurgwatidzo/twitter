@@ -1,0 +1,6 @@
+za\co\twitter\repository\UserRepository.class
+za\co\mini\twitter\TwitterMainAppController.class
+za\co\twitter\repository\TweetRepository.class
+za\co\twitter\entity\Tweet.class
+za\co\twitter\entity\User.class
+za\co\mini\twitter\CounterfeitTweetsController.class
